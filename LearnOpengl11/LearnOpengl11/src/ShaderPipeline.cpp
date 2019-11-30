@@ -40,4 +40,8 @@ void ShaderPipeline::UseProgram()
 	{
 		glUseProgram(m_ShaderProgram);
 	}
+	else
+	{
+		std::cout << "\nProgram not compiled!\n" << std::endl;
+	}
 }

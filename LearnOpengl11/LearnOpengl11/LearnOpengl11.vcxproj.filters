@@ -31,6 +31,8 @@
   <ItemGroup>
     <None Include="src\shaders\fragment.frag" />
     <None Include="src\shaders\vertex.vert" />
+    <None Include="src\shaders\fragment1.frag" />
+    <None Include="src\shaders\vertex1.vert" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\ShaderPipeline.h">

@@ -1,3 +1,2 @@
-﻿  Shader.cpp
-D:\Programowanie C itp\OpenGL\Projects\LearnOpengl11\LearnOpengl11\src\Shader.cpp(17,22): warning C4244: "argument": konwersja z "std::streamoff" do "const unsigned int", możliwa utrata danych
-  LearnOpengl11.vcxproj -> D:\Programowanie C itp\OpenGL\Projects\LearnOpengl11\/bin/Win32/Debug/LearnOpengl11.exe
+﻿  App.cpp
+  LearnOpengl11.vcxproj -> D:\Programowanie C++\Opengl\Projects\LearnOpengl11\/bin/Win32/Debug/LearnOpengl11.exe
